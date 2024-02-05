@@ -1,3 +1,3 @@
-Technology: HTML/CSS/JS 
-Purpose: Learning
+Technology: HTML/CSS/JS //
+Purpose: Learning //
 Project: Digital Clock
